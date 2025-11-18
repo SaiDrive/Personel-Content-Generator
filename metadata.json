@@ -1,0 +1,5 @@
+{
+  "name": "Content Catalyst",
+  "description": "An AI-powered content generation and management dashboard. Users can provide context, upload images, and use AI to generate text, images, and video content for social media, scheduling it for posting.",
+  "requestFramePermissions": []
+}
